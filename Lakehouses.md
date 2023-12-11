@@ -88,4 +88,5 @@ By combining the data visualization capabilities of Power BI with the centralize
 Microsoft Fabric lakehouses provide data engineers and analysts with the combined benefits of data lake storage and a relational data warehouse. You can use a lakehouse as the basis of an end-to-end data analytics solution that includes data ingestion, transformation, modeling, and visualization.
 
 ## Source
-[Microsoft]()
+[Microsoft](https://www.microsoft.com/en-us/microsoft-fabric)
+
