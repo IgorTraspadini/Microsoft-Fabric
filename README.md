@@ -4,7 +4,7 @@ Microsoft Fabric as a comprehensive analytics platform designed to facilitate co
 
 ## Content:
 - [Introduction to end-to-end analytics using Microsoft Fabric](Introduction.md)
-- [Get started with lakehouses in Microsoft Fabric]()
+- [Get started with lakehouses in Microsoft Fabric](Lakehouses.md)
 - [Use Apache Spark in Microsoft Fabric]()
 - [Work with Delta Lake tables in Microsoft Fabric]()
 - [Use Data Factory pipelines in Microsoft Fabric]()
