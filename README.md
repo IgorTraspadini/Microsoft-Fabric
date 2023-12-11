@@ -12,3 +12,5 @@ Microsoft Fabric as a comprehensive analytics platform designed to facilitate co
 - [Get started with data warehouses in Microsoft Fabric]()
 - [Get started with data science in Microsoft Fabric]()
 
+## Credits
+[Microsoft](https://www.microsoft.com/en-us/microsoft-fabric)
